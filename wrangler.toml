@@ -1,0 +1,5 @@
+name = "wrangler-env-demo"
+zone_id = ""
+account_id = ""
+route = "https://that-test.site/webpack-demo"
+type = "webpack"
